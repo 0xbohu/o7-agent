@@ -242,6 +242,12 @@ DEEPSEEK_API_URL=https://api.deepseek.com
 
 ---
 
+## 🗳️ Supabase DB Migration
+
+Run `.sql` files in `./supabase/migrations`
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or pull requests for new features, bug fixes, or documentation improvements.
