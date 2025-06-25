@@ -257,15 +257,3 @@ Contributions are welcome! Please open issues or pull requests for new features,
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📸 Screenshots / Demo
-
-![Demo Screenshot](public/images/demo-thumbnail.png)
-
----
-
-## 🙋 Contact
-
-For questions or support, open an issue or contact [@0xbohu](https://github.com/0xbohu).
