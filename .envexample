@@ -1,0 +1,19 @@
+# Vercel SUPABASE
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+# # OpenAI Configuration
+OPENAI_API_KEY=
+
+# # ANTHROPIC Configuration
+ANTHROPIC_API_KEY=
+
+#GEMINI
+GOOGLE_GENERATIVE_AI_API_KEY=
+
+# DeepSeek Configuration
+DEEPSEEK_API_KEY=     #Your DeepSeek API key
+DEEPSEEK_API_URL=      # Default: https://api.deepseek.com
+SMALL_DEEPSEEK_MODEL=  # Default: deepseek-chat
+MEDIUM_DEEPSEEK_MODEL= # Default: deepseek-chat
+LARGE_DEEPSEEK_MODEL=  # Default: deepseek-chat
+

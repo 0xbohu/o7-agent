@@ -1,0 +1,1 @@
+INSERT INTO "public"."tool_types" ("id", "name", "created_at") VALUES ('9b494033-4531-4722-b63c-8ca955991c78', 'MCP SSE', '2025-06-15 01:01:21.043131+00'), ('bc1f7e99-bf99-4cfe-9a81-344547ab65ea', 'Custom', '2025-06-15 01:00:22.218112+00'), ('df015681-c6f4-4036-affa-dc4db596e691', 'MCP Stdio', '2025-06-15 01:01:06.043677+00');
