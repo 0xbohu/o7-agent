@@ -2,7 +2,7 @@
 
 An Open-Source Web3 Agent Platform to interact with Starknet and EVM chains. O7 enables you to chat with intelligent agents, interact with blockchain data, and leverage AI-powered tools for Web3 development and research.
 
-![Dashboard Screenshot](screenshots/Dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
@@ -12,7 +12,7 @@ An Open-Source Web3 Agent Platform to interact with Starknet and EVM chains. O7 
 - **Multi-Agent Chat**: Converse with specialized agents for Starknet, EVM, DeFi, and code generation.
 - **Blockchain Data**: Query token prices, wallet balances, NFTs, DeFi pools, TVL, and more.
 - **Smart Contract Coding**: Generate and edit Cairo smart contracts, get Dojo development guidance.
-- **Multi-LLM Models Support **: Support 20+ LLM models incllude Gemini, OpenAI, Anthropic, Deepseek, and [more](https://ai-sdk.dev/docs/foundations/providers-and-models#ai-sdk-providers)
+- **Multi LLM Support**: Support 20+ LLM models incllude Gemini, OpenAI, Anthropic, Deepseek, and [more](https://ai-sdk.dev/docs/foundations/providers-and-models#ai-sdk-providers)
 - **Authentication**: Secure login and registration with Supabase Auth.
 - **Modern UI**: Responsive, dark/light theme, and intuitive sidebar navigation.
 - **Weather Tool**: Get real-time weather info via chat.
