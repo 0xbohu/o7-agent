@@ -2,6 +2,8 @@
 
 An Open-Source Web3 Agent Platform to interact with Starknet and EVM chains. O7 enables you to chat with intelligent agents, interact with blockchain data, and leverage AI-powered tools for Web3 development and research.
 
+Watch [youtube demo] (https://youtu.be/s6qmXYIFLcY)
+
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
