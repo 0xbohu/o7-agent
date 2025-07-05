@@ -27,7 +27,7 @@ An Open-Source Web3 Agent Platform to interact with Starknet and EVM chains. O7 
 
 ### Agents
 
-![Agents](screenshots/agents.png)
+![Agents](screenshots/agent.png)
 
 ### General - List tools provided by the Agent
 
