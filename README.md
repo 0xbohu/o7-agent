@@ -2,9 +2,7 @@
 
 An Open-Source Web3 Agent Platform to interact with Starknet and EVM chains. O7 enables you to chat with intelligent agents, interact with blockchain data, and leverage AI-powered tools for Web3 development and research.
 
-Watch [youtube demo](https://youtu.be/s6qmXYIFLcY)
-
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ---
 
@@ -14,7 +12,7 @@ Watch [youtube demo](https://youtu.be/s6qmXYIFLcY)
 - **Multi-Agent Chat**: Converse with specialized agents for Starknet, EVM, DeFi, and code generation.
 - **Blockchain Data**: Query token prices, wallet balances, NFTs, DeFi pools, TVL, and more.
 - **Smart Contract Coding**: Generate and edit Cairo smart contracts, get Dojo development guidance.
-- **Multi LLM Support**: Support 20+ LLM models incllude Gemini, OpenAI, Anthropic, Deepseek, and [more](https://ai-sdk.dev/docs/foundations/providers-and-models#ai-sdk-providers)
+- **Multi-LLM Models Support **: Support 20+ LLM models incllude Gemini, OpenAI, Anthropic, Deepseek, and [more](https://ai-sdk.dev/docs/foundations/providers-and-models#ai-sdk-providers)
 - **Authentication**: Secure login and registration with Supabase Auth.
 - **Modern UI**: Responsive, dark/light theme, and intuitive sidebar navigation.
 - **Weather Tool**: Get real-time weather info via chat.
@@ -23,63 +21,61 @@ Watch [youtube demo](https://youtu.be/s6qmXYIFLcY)
 
 ## 📸 Screenshots
 
-### General
+### Dashboard
 
-#### Select an agent to start a chat
+![Dashboard](screenshots/dashboard.png)
+
+### Agents
 
 ![Agents](screenshots/agents.png)
 
-#### Mutiple LLM model support
-
-![General - multiple LLM model](screenshots/General%20-%20multiple%20LLM%20model.png)
-
-#### Ask agent about supported tools
+### General - List tools provided by the Agent
 
 ![General - List tools provided by the Agent](screenshots/General%20-%20List%20tools%20provided%20by%20the%20Agent.png)
 
-#### View LLM response source option
+### General - multiple LLM model
+
+![General - multiple LLM model](screenshots/General%20-%20multiple%20LLM%20model.png)
+
+### Generral - View LLM Response Source
 
 ![Generral - View LLM Response Source](screenshots/Generral%20-%20View%20LLM%20Response%20Source.png)
 
-#### Code Agent
-
-##### Ask the agent to help write a simple Cairo contract
+### Code Agent - Cariro Contract
 
 ![Code Agent - Cariro Contract](screenshots/Code%20Agent%20-%20Cariro%20Contract.png)
 
+### Code Agent - Cariro Contract Continue
+
 ![Code Agent - Cariro Contract Continue](screenshots/Code%20Agent%20-%20Cariro%20Contract%20Continue.png)
 
-##### Ask about Dojo Development
+### Code Agent - Dojo Code 1
 
 ![Code Agent - Dojo Code 1](screenshots/Code%20Agent%20-%20Dojo%20Code%201.png)
 
+### Code Agent - Dojo Code 2
+
 ![Code Agent - Dojo Code 2](screenshots/Code%20Agent%20-%20Dojo%20Code%202.png)
+
+### Code Agent - Dojo Code 3
 
 ![Code Agent - Dojo Code 3](screenshots/Code%20Agent%20-%20Dojo%20Code%203.png)
 
-#### Starknet Agent
-
-##### Query token
-
-![Starknet Agent - Query Token Result](screenshots/Starknet%20Agent%20-%20Query%20Token%20Result.png)
-
-##### Lookup Starknet ID
-
-![Starknet Agent - Starknet ID](screenshots/Starknet%20Agent%20-%20Starknet%20ID.png)
-
-#### EVM Agent
-
-##### Query NFT Balance
-
-![EVM Agent - Query NFT Balance](screenshots/EVM%20Agent%20-%20Query%20NFT%20Balance.png)
-
-#### Defi Agent
-
-##### Ask about TVL
+### Defi Agent - query starknet TVL
 
 ![Defi Agent - query starknet TVL](screenshots/Defi%20Agent%20-%20query%20starknet%20TVL.png)
 
-and much more!! see below supported MCP and features
+### EVM Agent - Query NFT Balance
+
+![EVM Agent - Query NFT Balance](screenshots/EVM%20Agent%20-%20Query%20NFT%20Balance.png)
+
+### Starknet Agent - Query Token Result
+
+![Starknet Agent - Query Token Result](screenshots/Starknet%20Agent%20-%20Query%20Token%20Result.png)
+
+### Starknet Agent - Starknet ID
+
+![Starknet Agent - Starknet ID](screenshots/Starknet%20Agent%20-%20Starknet%20ID.png)
 
 ---
 
@@ -244,12 +240,6 @@ DEEPSEEK_API_URL=https://api.deepseek.com
 
 ---
 
-## 🗳️ Supabase DB Migration
-
-Run `.sql` files in `./supabase/migrations`
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or pull requests for new features, bug fixes, or documentation improvements.
@@ -259,3 +249,15 @@ Contributions are welcome! Please open issues or pull requests for new features,
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📸 Screenshots / Demo
+
+![Demo Screenshot](public/images/demo-thumbnail.png)
+
+---
+
+## 🙋 Contact
+
+For questions or support, open an issue or contact [@0xbohu](https://github.com/0xbohu).
