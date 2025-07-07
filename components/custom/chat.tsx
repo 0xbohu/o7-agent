@@ -58,7 +58,7 @@ export function Chat({
 
   let chatAgentId = selectedAgentId;
 
-  console.log(chatAgentId,id)
+  // console.log(chatAgentId,id)
 
   const { data: chats, isLoading: isChatsLoading } = useSWR<Array<ChatRow>>(
     !chatAgentId && id ? `/api/chat?chatId=${id}` : null,

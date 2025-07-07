@@ -194,6 +194,7 @@ export async function POST(request: Request) {
     if (!chat) {
       const title = await generateTitleFromUserMessage({
         message: userMessage,
+        model,
       });
       await saveChat({ id, userId: user.id, title ,agentId});
     } else if (chat.user_id !== user.id) {
